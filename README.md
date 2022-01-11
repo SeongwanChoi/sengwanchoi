@@ -8,7 +8,7 @@
 
 
 ### 💪 MY STATS
-![kimdyeyoun's GitHub stats](https://github-readme-stats.vercel.app/api?username=kimdyeyoun&theme=tokyonight&show_icons=true)
+![sengwanchoi GitHub stats](https://github-readme-stats.vercel.app/api?username=sengwanchoi&theme=tokyonight&show_icons=true)
 <hr>
 <!--
 **sengwanchoi/sengwanchoi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
