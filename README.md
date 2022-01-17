@@ -3,7 +3,7 @@
 <a href="mailto:eodyd7072@naver.com" target="_black"><img src="https://img.shields.io/badge/eodyd7072@naver.com-62B47A?style=flat-square&logo=Naver&logoColor=white"/></a>
 
 [![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=eodyd7072)](https://solved.ac/eodyd7072)
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=eodyd7072)](https://solved.ac/wan7523376)
 <img src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right">
 
 
